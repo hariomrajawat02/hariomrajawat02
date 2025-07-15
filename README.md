@@ -8,8 +8,8 @@
   <a href="mailto:hariomrajawat002@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://github.com/hariomrajawat02">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://leetcode.com/u/hariomrajawat01/">
+    <img alt="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" >
   </a>
 </p>
 
