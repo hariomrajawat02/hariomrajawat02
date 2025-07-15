@@ -9,7 +9,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://leetcode.com/u/hariomrajawat01/">
-    <img alt="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" >
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
   </a>
 </p>
 
@@ -65,6 +65,7 @@
 
 - 📩 **Email**: hariomrajawat002@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/hariom-rajawat-91b02930a](https://www.linkedin.com/in/hariom-rajawat-91b02930a/)  
+- 👨‍💻 **LeetCode**: [leetcode.com/u/hariomrajawat01](https://leetcode.com/u/hariomrajawat01)  
 - 🧠 Always open to collaboration, internships, and cool ideas!
 
 ---
@@ -72,6 +73,3 @@
 ### 💡 Motto
 
 > “Dream big, stay consistent, and let your work speak louder than words.”
-
----
-
