@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariom Rajawat</h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | Tech Innovator</h3>
+<h3 align="center">Software Developer | DSA Enthusiast | Tech Innovator</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hariom-rajawat-91b02930a/">
