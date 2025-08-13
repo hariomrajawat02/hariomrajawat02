@@ -20,7 +20,7 @@
 - 🔭 Currently working on **Full Stack MERN Projects & DSA Mastery**
 - 🎯 Aim: **Crack top tech interviews & land a high-impact Software Development role**
 - 🧠 Exploring **System Design**, **Scalable Architectures**, and **Cloud Technologies**
-- 🚀 3rd Year CS Student @ PSIT | AKTU
+- 🚀 3rd Year CS(AI) Student @ PSIT | AKTU
 - 💡 Passionate about solving real-world problems with tech innovations
 
 ---
